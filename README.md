@@ -1,6 +1,14 @@
 # botify.stats
 Simple stats module for Botify Telegram library.
 
+
+## Install
+After creating the `$bot` object, include the module.
+```php
+include __DIR__ . '/modules/botify.stats/module.php';
+```
+
+## Setup
 `stats_new_users.sql`
 
 ```sql
